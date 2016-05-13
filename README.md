@@ -15,6 +15,10 @@ This script performs the following actions
 * Install `bake`
 * Create configuration directory for `BAKE_HOME` at `~/.bake`
 
+### Arch Linux AUR package
+
+Arch Linux users can install bake via the AUR package `bakeware-bake-bin`.
+
 ## Usage
 
 Bakeware is a multi-target toolkit for building embedded applications using nerves. Before we compile our first project lets discuss some of the terminology we use to describe the bakeware / nerves workflow.
